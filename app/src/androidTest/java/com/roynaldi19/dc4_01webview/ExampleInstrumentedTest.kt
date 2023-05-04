@@ -1,4 +1,4 @@
-package com.roynaldi19.bpai01_06webview
+package com.roynaldi19.dc4_01webview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
